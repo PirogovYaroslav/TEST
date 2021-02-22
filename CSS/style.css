@@ -1,0 +1,11 @@
+@font-face{
+font-family: ThunderCats;
+src: url(../FONT/design.collection1.thundercats.ttf);
+
+}
+
+body{
+    background-color: gray;
+    background-image: url(../IMG/background.jpg);
+    font-family: ThunderCats;
+}
